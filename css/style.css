@@ -545,10 +545,12 @@ body {
 }
 
 .intro__title {
+  max-width: 619px;
   font-size: 50px;
   font-weight: 500;
   line-height: 60px;
   color: white;
+  margin-bottom: 22px;
 }
 
 /* Intro style end */
