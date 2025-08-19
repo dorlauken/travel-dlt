@@ -553,4 +553,12 @@ body {
   margin-bottom: 22px;
 }
 
+.intro__subtitle {
+  max-width: 546px;
+  color: white;
+  font-size: 16px;
+  line-height: 24px; /* 150% */
+  margin-bottom: 59px;
+}
+
 /* Intro style end */
