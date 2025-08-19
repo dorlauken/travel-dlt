@@ -541,6 +541,14 @@ body {
   height: 100vh;
   background: url(../img/intro-bg.jpg) no-repeat center;
   background-size: cover;
+  padding-top: 263px;
+}
+
+.intro__title {
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 60px;
+  color: white;
 }
 
 /* Intro style end */
